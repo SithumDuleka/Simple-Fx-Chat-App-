@@ -6,4 +6,3 @@ public class main {
 
     }
 }
-Screenshot 2025-08-08 at 7.40.13 PM.png
