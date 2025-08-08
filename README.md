@@ -16,9 +16,9 @@ This project demonstrates basic GUI development and client-server communication 
 
 ## Screenshot
 
-*(Add a screenshot of your chat app here for better presentation)*
 
-![Chat Application Screenshot]()
+
+![Chat Application Screenshot](img/readmdimg.png)
 
 ---
 
