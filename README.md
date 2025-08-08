@@ -26,14 +26,8 @@ This project demonstrates basic GUI development and client-server communication 
 
 - Java Development Kit (JDK) 8 or above installed  
 - IDE (e.g., IntelliJ IDEA, Eclipse) or command line tools  
-- Basic understanding of Java Swing and socket programming  
+- Basic understanding of Java Swing and OOP concpets
 
 ---
 
-## Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/jframe-chat-application.git
-cd jframe-chat-application
